@@ -16,7 +16,7 @@ build = {
     type = "lls-addon",
     settings = {
         diagnostics = {
-            globals = { "lfs" }
+            globals = { "lfs" },
         }
     }
 }
